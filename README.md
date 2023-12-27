@@ -51,6 +51,8 @@ print(arr)
 ```
 
 ## Output:
+![image](https://github.com/Thajesh2/Sorting-Algorithm/assets/139841959/f14bf10e-5191-4c85-af51-3b2ecbbc4f3e)
+![Screenshot 2023-12-27 113501](https://github.com/Thajesh2/Sorting-Algorithm/assets/139841959/1e168db5-512f-4c55-837a-69a53392a1c6)
 
 
 ## Result:
